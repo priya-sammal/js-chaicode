@@ -5,4 +5,4 @@ let address;
 //UNDEFINED  
 City="HAldwani"
 
-console.table([AccountId,Email,Password])
+console.table([AccountId,Email,Password,City])
